@@ -6,6 +6,8 @@ Este projeto foi desenvolvido para praticar conceitos iniciais de Análise de Da
 
 O objetivo é analisar o faturamento e a quantidade de produtos vendidos por meio de um dashboard interativo no Power BI.
 
+- ![Dashboard de análise de vendas](dashboard.png)
+
 ## Ferramentas utilizadas
 
 - Microsoft Excel
@@ -27,8 +29,6 @@ O objetivo é analisar o faturamento e a quantidade de produtos vendidos por mei
 - Formatação de valores monetários
 - Construção de um dashboard
 - Publicação de um projeto no GitHub
-
-- ![Dashboard de análise de vendas](dashboard.png)
 
 ## Arquivo do projeto
 
