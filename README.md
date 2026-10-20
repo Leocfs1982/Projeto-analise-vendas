@@ -28,6 +28,8 @@ O objetivo é analisar o faturamento e a quantidade de produtos vendidos por mei
 - Construção de um dashboard
 - Publicação de um projeto no GitHub
 
+- ![Dashboard de análise de vendas](dashboard.png)
+
 ## Arquivo do projeto
 
 O arquivo `Dashboard_Vendas_Iniciante.pbix` contém o relatório desenvolvido no Power BI.
