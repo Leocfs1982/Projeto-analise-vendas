@@ -1,3 +1,5 @@
+![Capa do Projeto de Análise de Vendas](capa-projeto-vendas.png)
+
 # Projeto de Análise de Vendas — Excel e Power BI
 
 ## Sobre o projeto
